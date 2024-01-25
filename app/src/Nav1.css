@@ -1,0 +1,21 @@
+.navbar{
+    background: rgb(252, 113, 113);
+    font-family: 'Tw Cen Mt';
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.nav-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 40px;
+}
+li{
+    list-style: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 25px;
+    color: black;
+    font-size: 25px;
+}
+

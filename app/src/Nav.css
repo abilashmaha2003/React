@@ -1,0 +1,14 @@
+.service{
+    display: grid;
+    font-weight: bold;
+    font-family: 'Arial';
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+.service-item{
+    background-color: aqua;
+    padding: 10px;
+}
+.img{
+    text-align: center;
+}
